@@ -1,4 +1,4 @@
-# Sentimental_analysis
+# Sentiment_analysis
 # Sentiment Analysis on Kaggle Dataset
 
 ## Overview
